@@ -1,2 +1,2 @@
-# slingshot_angry_birds
-making a slingshot function
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
